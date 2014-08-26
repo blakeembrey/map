@@ -7,6 +7,10 @@
  * @return {Object}
  */
 module.exports = function (obj, fn, context) {
+  if (obj == null) {
+    return obj;
+  }
+
   if (Array.isArray(obj)) {
     var array = [];
 

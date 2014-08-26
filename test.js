@@ -71,4 +71,8 @@ describe('map', function () {
       expect(value).to.not.equal('property');
     });
   });
+
+  it('should not error with undefined value', function () {
+    map(null /*, function () {} */);
+  });
 });
