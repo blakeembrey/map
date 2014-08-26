@@ -1,6 +1,6 @@
 {
   "name": "util-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map over an object, array or string",
   "main": "map.js",
   "scripts": {
