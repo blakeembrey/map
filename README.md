@@ -1,11 +1,9 @@
 # Map
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/map.svg)](https://greenkeeper.io/)
-
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/map.svg)](https://greenkeeper.io/)
 
 Map over an object, array or string and keep the result as the same type.
 
